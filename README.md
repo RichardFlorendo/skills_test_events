@@ -1,16 +1,9 @@
 # skills_test_events
 
-A new Flutter project.
+A Flutter project created for a skills test.
+Python Flask is in "api" Folder.
 
-## Getting Started
+## Information
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This project is intended to create an event creation, management, and deletion application. I used Flutter for the Front-End, and Python Flask for the API and backend with JSON. 
+Uploaded in this repository is my progress on how much I accomplished in the 8 hours I was given.
